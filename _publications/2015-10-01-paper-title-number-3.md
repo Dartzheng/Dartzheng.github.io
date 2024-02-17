@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publications/2015-10-01-paper-title-number-3
 excerpt: 'With the wave of globalization and technological advancement, the fashion industry is facing unprecedented transformation. Currently, the fashion industry requires not only professionals with creative thinking but also practical talents who can adapt to new business models. Therefore, this study aims to explore and analyze the changes brought by the transformation and upgrading of the fashion industry, as well as to conduct an empirical study on the Fashion College of Shanghai S University of Applied Sciences (hereinafter referred to as "X Fashion College"). The goal is to identify existing problems and their causes, and to build an applied undergraduate talent cultivation model that integrates industry and education, tailored to the current needs of the fashion industry, providing guidance and reference for relevant institutions and businesses.'
 date: 2024-01-18
 venue: 'Master's Degree Graduate Thesis'
