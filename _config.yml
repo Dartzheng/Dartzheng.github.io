@@ -20,7 +20,7 @@ repository               : "Dartzheng/dartzheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "zxy.png"
   name             : "Dart Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Keep optimistic and cheerful, in pursuit of the unknown."
