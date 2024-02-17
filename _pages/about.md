@@ -9,20 +9,19 @@ redirect_from:
 
 Dart Zheng is a Knitting Engineer and Assistant Dean at SIFEC under the Oriental International (Group) Co., Ltd. He is also the Head of the Knitting Department and a teacher at the Shanghai Sanda University’s Fashion College. Furthermore, Dart Zheng is the founder of SIFEC’s Knitting Design and Sample Studio.
 
-A data-driven personal website
+Educational Background
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2021.09-2024.06 East China Normal University Master of Public Administration, (specializing in Educational Management)
+2012.09-2016.06 Shanghai University of Engineering Science Fashion Design and engineering Bachelor’s
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Work Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2018.01 to present - Shanghai International Fashion Education Center (under Oriental International Group Co., Ltd.) Assistant Dean of the Fashion Institute, Head of the Knitting Teaching and R&D Department. 
+-(2019.09 to present) Shanghai Sanda University Fashion Institute: Teacher, Head of the Knitting Department.
+ -(2019.02 to 2019.04) Advanced Training at STOLL Training Center in Germany. 
+ 2016.07 to 2017.10 - Jiaxing Diwei Fashion Co., Ltd. Knitting Technician.
+  -(2017.06 to 2017.07) Advanced Training at Shima Seiki Headquarters in Japan.
 
 Site-wide configuration
 ------
