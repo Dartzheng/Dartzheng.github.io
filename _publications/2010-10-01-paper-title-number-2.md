@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Paper"
 collection: publications
 permalink: /publications/2010-10-01-paper-title-number-2
 excerpt: 'The design process of children's fully fashioned knitted masks is elaborated from the aspects of style structure and molding process. The knitting processes for the mask body, ear straps, and the interior of the mask are introduced. The results indicate that the use of fully fashioned knitting technology can achieve one-time molding of children's masks. In the design of the functional layer, a replaceable filter cartridge structure can be utilized to accommodate filters with various functions, which is of great significance for enhancing the comfort of wearing children's masks and reducing resource wastage.'
