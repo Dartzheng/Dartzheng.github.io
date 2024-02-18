@@ -205,7 +205,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  Work Projects:
+  talks:
     output: true
     permalink: /:collection/:path/
 
