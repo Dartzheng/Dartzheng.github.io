@@ -20,12 +20,13 @@ Work Experience
 2018.01 to present - Shanghai International Fashion Education Center (under Oriental International Group Co., Ltd.) Assistant Dean of the Fashion Institute, Head of the Knitting Teaching and R&D Department. 
 -(2019.09 to present) Shanghai Sanda University Fashion Institute: Teacher, Head of the Knitting Department.
 ![Editing a markdown file for a talk](/images/sifec.png)
- -(2019.02 to 2019.04) Advanced Training at STOLL Training Center in Germany. 
-<iframe src="//player.bilibili.com/player.html?aid=454184901&bvid=BV1t5411y7X1&cid=1416947184&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ---
- 2016.07 to 2017.10 - Jiaxing Diwei Fashion Co., Ltd. Knitting Technician.
-  -(2017.06 to 2017.07) Advanced Training at Shima Seiki Headquarters in Japan.
-![Editing a markdown file for a talk](/images/2017.jpeg)
+ -(2019.02 to 2019.04) Advanced Training at STOLL Training Center in Germany. 
+<iframe src="//player.bilibili.com/player.html?aid=1100522334&bvid=BV1YA4m1G7x3&cid=1442843899&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+---
+ 2016.07 to 2017.10 - Jiaxing Diwei Fashion Co., Ltd. Knitting Technician. 
+  -(2017.06 to 2017.07) Advanced Training at Shima Seiki Headquarters in Japan. 
+![Editing a markdown file for a talk](/images/201701.jpg)
 
 About my blog
 ------
