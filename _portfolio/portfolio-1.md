@@ -22,7 +22,7 @@ C. More transfer patterns
 
 ---
 
-Development Knitting Pattern Case 01 
+Development Knitting Pattern Case-Jacquard 
 ====== 
 
 ![Editing a markdown file for a talk](/images/stitchphoto02.png)
@@ -33,4 +33,4 @@ A. Pattern photo
 B. Symbolize view and technical view
 
 ![Editing a markdown file for a talk](/images/more02.png)
-C. More transfer patterns
+C. More Jacquard patterns
