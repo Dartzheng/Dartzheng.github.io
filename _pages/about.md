@@ -22,6 +22,7 @@ Work Experience
  
 -(2019.09 to present) Shanghai Sanda University Fashion Institute: Teacher, Head of the Knitting Department.
 ![Editing a markdown file for a talk](/images/sifec.png)
+ 
 ---
  -(2019.02 to 2019.04) Advanced Training at STOLL Training Center in Germany. 
 <iframe src="//player.bilibili.com/player.html?aid=1100522334&bvid=BV1YA4m1G7x3&cid=1442843899&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -35,11 +36,11 @@ About my blog
 ------
 The [_"publications"](https://dartzheng.github.io/publications/)contents 4 papers which were published during 2017 to 2024.You can also download the complete document content from the link.
  
-The [_"work projects"](https://dartzheng.github.io/talks/)contents 4 papers which were published during 2017 to 2024.You can also download the complete document content from the link.
+The [_"work projects"](https://dartzheng.github.io/talks/)Includes three projects in the knitting field that I participated in.
  
-The [_"teaching"](https://dartzheng.github.io/teaching/)contents 4 papers which were published during 2017 to 2024.You can also download the complete document content from the link.
+The [_"teaching"](https://dartzheng.github.io/teaching/) Includes my two teaching experiences and the main job responsibilities.
  
-The [_"knitting database"](https://dartzheng.github.io/portfolio/)contents 4 papers which were published during 2017 to 2024.You can also download the complete document content from the link.
+The [_"knitting database"](https://dartzheng.github.io/portfolio/)Includes a few simple cases related to digital knitting design and automated weaving.
 
 For more info
 ------
