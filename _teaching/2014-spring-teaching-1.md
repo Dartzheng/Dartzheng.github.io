@@ -20,4 +20,4 @@ Automated Knitting Design Course Instruction
 
 Design Project Collaboration
 ======
-![Editing a markdown file for a talk](/images/2017xiuchang.png)
+![Editing a markdown file for a talk](/images/201902.png)
