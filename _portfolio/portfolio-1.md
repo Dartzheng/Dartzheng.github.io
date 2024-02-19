@@ -1,10 +1,12 @@
 ---
 title: "Knitting Database"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/database00.png'>"
+excerpt: "Click the link to see more<br/><img src='/images/database00.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+TKnitted fabrics are designed through computer software programming and then knitted on a computerized flat knitting machine. Using yarns of different materials will present various visual effects and textures.
+
+In my work and teaching, I have accumulated over 1000 teaching pattern cases, original patterns, and their programs. This page displays a part of them. If you have any learning or research needs, feel free to contact me. 
 
 Basic Case 01-transfer loop stitch 
 ====== 
@@ -17,6 +19,8 @@ A. Pattern photo
 
 ![Editing a markdown file for a talk](/images/more01.png)
 C. More transfer patterns
+
+---
 
 Development Knitting Pattern Case 01 
 ====== 

@@ -12,11 +12,11 @@ main:
   - title: "Knitting Database"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: ""
     url: /year-archive/
     
-  - title: "CV"
+  - title: ""
     url: /cv/
     
-  - title: "Guide"
+  - title: ""
     url: /markdown/
