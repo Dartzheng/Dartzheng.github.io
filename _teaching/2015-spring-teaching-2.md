@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "Served as the "Fashion Technology" Venue Manager at the 46th WorldSkills Competition Shanghai Selection Event"
 collection: teaching
-type: "Workshop"
+type: "Skills Competition"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "WorldSkills Competition"
+date: 2022-10-01
+location: "Shanghai"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As the Venue Manager, responsible for pre-competition preparations, on-site management, liaison with expert teams, management of technical support, and competition operations support team.
 
-Heading 1
+Competition Preparation Work
 ======
+![Editing a markdown file for a talk](/images/works03.jpg)
 
-Heading 2
+Contestant Training
 ======
-
-Heading 3
-======
+![Editing a markdown file for a talk](/images/teaching002.jpg)
