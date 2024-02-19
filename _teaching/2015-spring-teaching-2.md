@@ -1,7 +1,7 @@
 ---
-title: "Served as the "Fashion Technology" Venue Manager at the 46th WorldSkills Competition Shanghai Selection Event"
+title: "Served as the Fashion Technology Venue Manager at the 46th WorldSkills Shanghai Selection E Competition"
 collection: teaching
-type: "Skills Competition"
+type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "WorldSkills Competition"
 date: 2022-10-01
