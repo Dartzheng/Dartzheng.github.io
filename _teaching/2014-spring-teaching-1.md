@@ -10,11 +10,14 @@ location: "Shanghai, China"
 
 Responsible for the construction of the knitting design direction within the Fashion and Apparel Design major, undertaking the teaching of core courses such as "Knitwear CAD Technology(STOLL)" "Knit Pattern Design and Technology," and "Fully Fashion Garment Technology." Also responsible for establishing school-enterprise cooperation projects with knitwear companies.
 
-Heading 1
+Hand Knitting Design Instruction
 ======
+![Editing a markdown file for a talk](/images/teaching01.jpg)
 
-Heading 2
+Automated Knitting Design Course Instruction
 ======
+![Editing a markdown file for a talk](/images/teaching02.png)
 
-Heading 3
+Design Project Collaboration
 ======
+![Editing a markdown file for a talk](/images/2017xiuchang.png)
