@@ -6,8 +6,6 @@ excerpt: 'This is a thesis on the talent cultivation model of industry-education
 date: 2024-01-18
 venue: 'Master&apos;s Degree Graduate Thesis'
 paperurl: 'https://github.com/Dartzheng/dartzheng.github.io/blob/master/files/paper3.pdf'
-paperurl: 'https://github.com/Dartzheng/dartzheng.github.io/blob/master/files/杉达版2024问卷结果.xlsx'
-paperurl: 'https://github.com/Dartzheng/dartzheng.github.io/blob/master/files/通用版2024问卷结果.xlsx'
 citation: 'Omitted for now'
 
 ---
