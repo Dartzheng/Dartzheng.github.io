@@ -6,6 +6,8 @@ excerpt: 'This is a thesis on the talent cultivation model of industry-education
 date: 2024-01-18
 venue: 'Master&apos;s Degree Graduate Thesis'
 citation: 'Omitted for now'
+Survey questionnaire results 01: /files/杉达版2024问卷结果-http://dartzheng.github.io/files/杉达版2024问卷结果.xlsx
+Survey questionnaire results 02: /files/通用版2024问卷结果-http://dartzheng.github.io/files/通用版2024问卷结果.xlsx
 ---
 This is a thesis on the talent cultivation model of industry-education integration in the fashion industry, which discusses the author&apos;s exploration and research on the industry-education integration talent cultivation model during their teaching period in the fashion industry. 
 
